@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.pushplag"
+    version   = "1.0.0">
+<preference name='phonegap-version' value='3.0.0' />
+<name>Monitoreo de Plagas</name>
+
+<description>
+Esta aplicación permite manejar cultivos
+la dosis para controlar el uso inadecuado
+de agroquímicos
+</description>
+
+<author href="#" email="belenharo@outlook.com">
+María Belén Haro
+</author>
+<icon src="icon.png" />
+</widget>
